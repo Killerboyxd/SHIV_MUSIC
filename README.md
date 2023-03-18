@@ -1,7 +1,7 @@
-<h2 align="centre">ғʟᴀᴍᴇ ᴍᴜsɪᴄ</h2>
+<h2 align="centre">𝗦𝗵𝗶𝘃 ᴍᴜsɪᴄ</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/0a290f9369e33cf506894.jpg">
+  <img src="https://telegra.ph/file/9584b19633bf5b31faa12.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -50,5 +50,5 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 <p align="center"><a href="https://railway.app/new/template?template=https://github.com/S780821/Railway_deploy&envs=API_HASH,API_ID,ASS_ID,BOT_TOKEN,CHANNEL,DURATION_LIMIT,GROUP,LOG_GROUP_ID,MONGO_DB_URI,OWNER_ID,SESSION_NAME,SUDO_USERS,UPSTREAM_BRANCH,UPSTREAM_REPO"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 
 ### Support & Updates 
-<a href="https://t.me/Flame_Project"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Flame_Updates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Flame_Updates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
 
